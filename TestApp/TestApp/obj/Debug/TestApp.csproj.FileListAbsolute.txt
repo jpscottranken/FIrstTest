@@ -1,0 +1,10 @@
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\bin\Debug\TestApp.exe.config
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\bin\Debug\TestApp.exe
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\bin\Debug\TestApp.pdb
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\obj\Debug\TestApp.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\obj\Debug\TestApp.Form1.resources
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\obj\Debug\TestApp.Properties.Resources.resources
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\obj\Debug\TestApp.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\obj\Debug\TestApp.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\obj\Debug\TestApp.exe
+C:\Users\jpscott\Desktop\FIrstTest\TestApp\TestApp\obj\Debug\TestApp.pdb
